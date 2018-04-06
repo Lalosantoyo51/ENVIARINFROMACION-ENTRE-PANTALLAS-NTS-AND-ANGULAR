@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/desarrollo/Desktop/location/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/desarrollo/Desktop/location/platforms/android/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/desarrollo/Desktop/location/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/desarrollo/Desktop/location/platforms/android/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/desarrollo/Desktop/location/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/desarrollo/Desktop/location/platforms/android/app/src/main/res/drawable-xxxhdpi/background.png"
+    }
+]
